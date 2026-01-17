@@ -47,7 +47,7 @@ This page provides a **business-wide snapshot** of performance.
 
 ### 2️⃣ Seasonal Analysis Page
 
-![Dashboard Page 1](images/Image_2.png)
+![Dashboard Page 1](images/image_2.png)
 
 This page focuses on **season-level performance comparison**.
 
@@ -68,7 +68,7 @@ This page focuses on **season-level performance comparison**.
 
 ### 3️⃣ Drill-Through Page — WOMAN Section
 
-![Dashboard Page 1](images/Image_3.png)
+![Dashboard Page 1](images/image_3.png)
 
 This page provides a detailed analysis of **female customer purchasing behavior**.
 
@@ -93,7 +93,7 @@ This page provides a detailed analysis of **female customer purchasing behavior*
 
 ### 4️⃣ Drill-Through Page — MAN Section
 
-![Dashboard Page 1](images/Image_4.png)
+![Dashboard Page 1](images/image_4.png)
 
 This page focuses on **male customer performance and purchasing patterns**.
 
